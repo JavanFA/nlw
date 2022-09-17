@@ -1,8 +1,8 @@
-# Nlw eSports
+# NLW eSports
 
 > Trilha Explore
 
-Projeto criado no evento Next Level Week da Rocketseat
+Projeto criado no evento Next Level Week da Rocketseat.
 
 ## Tecnologias
 
