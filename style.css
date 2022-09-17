@@ -92,7 +92,7 @@ section ul li:hover{
     transform: scale(1.1);
 }
 
-.game-list img {
+.games-list img {
     width: 90px;
     border-radius: 8px;
 }
