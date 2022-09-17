@@ -10,7 +10,7 @@ Projeto criado no evento Next Level Week da Rocketseat
 - CSS
 - Git e Github
 
-# Link do projeto: https://javanfa.github.io/nlw-esports-explore
+Link do projeto: https://javanfa.github.io/nlw-esports-explore
 
-#Contato
+# Contato
 javan.franca18@gmail.com
